@@ -6,3 +6,5 @@ practical 9
 <img width="332" height="565" alt="image" src="https://github.com/user-attachments/assets/d4c00707-3c05-49ff-879d-8c1596abf9c1" />
 practical 10
 <img width="250" height="261" alt="image" src="https://github.com/user-attachments/assets/c7d88b0f-ce28-49b5-a6d4-71b29051d293" />
+practical 11
+<img width="302" height="382" alt="image" src="https://github.com/user-attachments/assets/7464d485-27af-4eef-99ac-59083f884944" />
